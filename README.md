@@ -1,7 +1,7 @@
 # Rhythm-On-Wrist
 #A Watch-Selling Website
 
-Problem Description:
+Project Description:
 Our watch selling website is a platform that offers a wide range of stylish and high-quality watches for customers to explore and purchase. With a user-friendly interface, seamless navigation, and wide range of watches, our website provides a convenient and enjoyable shopping experience for watch enthusiasts. Discover the perfect timepiece that suits your style and make a statement with our diverse collection of watches.
 
 Distinguishing features of your project:
