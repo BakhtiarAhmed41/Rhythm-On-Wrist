@@ -2,9 +2,9 @@
 #A Watch-Selling Website
 
 Project Description:
-Our watch selling website is a platform that offers a wide range of stylish and high-quality watches for customers to explore and purchase. With a user-friendly interface, seamless navigation, and wide range of watches, our website provides a convenient and enjoyable shopping experience for watch enthusiasts. Discover the perfect timepiece that suits your style and make a statement with our diverse collection of watches.
+Our watch selling platform offers a wide range of stylish and high-quality watches for customers to explore and purchase. With a user-friendly interface, seamless navigation, and wide range of watches, our website provides a convenient and enjoyable shopping experience for watch enthusiasts. Discover the perfect timepiece that suits your style and make a statement with our diverse collection of watches.
 
-Distinguishing features of your project:
+Distinguishing features of project:
 Extensive Watch Collection: Our project boasts an extensive collection of watches, ranging from luxury and designer brands to affordable yet stylish options. We have wide range of vintage watches as well which remain in very high demand anytime. Customers can explore a wide range of styles, materials, and functionalities to find the perfect watch that suits their taste and needs.
 
 User-Friendly Interface: We prioritize user experience by providing a user-friendly interface that ensures easy navigation and intuitive browsing. Customers can easily explore, order and pay making it effortless to find their desired timepiece.
